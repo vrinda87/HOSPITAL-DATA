@@ -1,0 +1,27 @@
+[
+    {
+        "hospitalName": "NAHAS HOSPITAL",
+        "hospitalpatientCount": "1500",
+        "hospitalLocation": "malappuram"
+    },
+    {
+        "hospitalName": "MVR CANCER ",
+        "hospitalpatientCount": "500",
+        "hospitalLocation": "NIT Calicut"
+    },
+    {
+        "hospitalName": "MIMS HOSPITAL",
+        "hospitalpatientCount": "3000",
+        "hospitalLocation": "MANKAVU clt "
+    },
+    {
+        "hospitalName": "BABY MEMORIAL HOSPITAL",
+        "hospitalpatientCount": "3500",
+        "hospitalLocation": "Calicut"
+    },
+    {
+        "hospitalName": "AMRUTHA HOSPITAL",
+        "hospitalpatientCount": "2500",
+        "hospitalLocation": "Ernakulam"
+    }
+]
